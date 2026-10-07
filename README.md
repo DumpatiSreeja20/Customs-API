@@ -89,9 +89,8 @@ customs-api/
 
 ## 👤 Author
 
-**Varun Kotha**  
-Final-year Computer Science Student  
-GitHub: [@varun-bunny](https://github.com/varun-bunny)  
+**Sreeja_Dumpati**   
+GitHub: [@sreejadumpati20](https://github.com/DumpatiSreeja20)  
 Project: Customs API – Intern Evaluation Task
 
 
